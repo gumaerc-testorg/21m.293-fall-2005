@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains assignments of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,21 +15,21 @@ Paper 1: Readings Response
 
 The first paper assignment is to write a short response to several assigned readings.
 
-Paper 1 Description ([PDF]({{< baseurl >}}/resources/paper1))
+Paper 1 Description ({{% resource_link 99c3f74e-69ea-98f3-dcba-17d393bb8895 "PDF" %}})
 
 Paper 2: Ethnographic Performance Analysis
 ------------------------------------------
 
 The second paper assignment is an ethnographic analysis of a local club performance by [Lamine Touré and Group Saloum](http://www.laminetoure.com/groupsaloum.php).
 
-Paper 2 Description ([PDF]({{< baseurl >}}/resources/paper2))
+Paper 2 Description ({{% resource_link d1c5ea09-6fce-38a8-a365-a6833936ca42 "PDF" %}})
 
 Final Project
 -------------
 
 The final project, which includes an oral presentation and an 8-10 page paper, will be on an approved research topic of your choice.
 
-Description of the Final Project Assignment ([PDF]({{< baseurl >}}/resources/finalproj))
+Description of the Final Project Assignment ({{% resource_link 4dd495fe-5c36-0343-104a-48d263f38b23 "PDF" %}})
 
 Begin with a final project proposal, due on Lec #16. Your proposal should be brief (less than one page), and will have three components:
 
@@ -40,6 +41,6 @@ Begin with a final project proposal, due on Lec #16. Your proposal should be bri
 
 Papers are presented courtesy of the authors, and used with permission.
 
-Bershteyn, Anna. "TUBS Transcription of the _Bakks_ of Rambax MIT." Paper ([PDF]({{< baseurl >}}/resources/bakks_paper)), Transcription ([PDF]({{< baseurl >}}/resources/bakks_transcrptn))
+Bershteyn, Anna. "TUBS Transcription of the _Bakks_ of Rambax MIT." Paper ({{% resource_link 52df6ea8-6225-d683-23b4-54fac1227839 "PDF" %}}), Transcription ({{% resource_link 7e2f2949-93f4-690d-b312-e4038bce8d6b "PDF" %}})
 
-Fleder, Michael. "Gahu." ([PDF]({{< baseurl >}}/resources/gahu))
+Fleder, Michael. "Gahu." ({{% resource_link abbbcec3-3a27-eade-4212-b46efcd49078 "PDF" %}})

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information course requirements, textbooks, papers
+  and projects, exams and quizzes, academic honesty, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
