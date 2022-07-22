@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section gives information on readings list and assigned readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d7a202b7-c7c8-719a-5820-d01455823289
 ---
@@ -178,7 +182,7 @@ Sabar Drumming: An Introduction to Basic Hand Techniques, Rhythms, and _bàkks_
 {{< tdopen >}}
 Tang. 2000, pp. 158-204.  
   
-Sabar Terms ([PDF]({{< baseurl >}}/resources/sabar_terms))
+Sabar Terms ({{% resource_link d8470a03-0951-1058-9e61-22576d4d480d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

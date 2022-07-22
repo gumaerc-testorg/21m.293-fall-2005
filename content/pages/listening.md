@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains table of listening citations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Listening
 uid: a296776f-6e43-42fd-6e2c-06d305a37c28
 ---
