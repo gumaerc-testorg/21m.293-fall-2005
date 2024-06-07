@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-293-music-of-africa-fall-2005/abbbcec33a27eade4212b46efcd49078_gahu.pdf
+file_size: 108339
 file_type: application/pdf
 learning_resource_types:
 - Assignments
