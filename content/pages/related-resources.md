@@ -1,16 +1,15 @@
 ---
 content_type: page
 description: This section contains few links to online world music resources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 24e7349a-0396-a284-c907-883c94051165
 ---
-
 This page presents a few links to online world music resources.
 
-Not-for-Profit Concert Presenters
----------------------------------
+## Not-for-Profit Concert Presenters
 
 [World Music/CRASHArts](http://worldmusic.org/) - Boston area
 
@@ -18,11 +17,10 @@ Not-for-Profit Concert Presenters
 
 [Afropop Worldwide](http://afropop.org/) - Affiliated with the NPR radio program of the same name
 
-Sources of "Hard to Find" Recordings
-------------------------------------
+## Sources of "Hard to Find" Recordings
 
-[Calabash Music](http://www.calabashmusic.com/) - A "fair trade" distributor and retailer
+Calabash Music - A "fair trade" distributor and retailer
 
-[Stern's Music](http://www.sternsmusic.com/)
+Stern's Music
 
 [WADaBo](http://wadabo.com/) (West African Dance in Boston) includes links to drumming and dance teachers and classes in the Boston area.
