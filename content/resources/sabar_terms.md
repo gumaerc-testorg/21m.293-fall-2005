@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on sabar, griot, and wolof.
-file: /ol-ocw-studio-app/courses/21m-293-music-of-africa-fall-2005/d8470a03095110589e6122576d4d480d_sabar_terms.pdf
+file: /courses/21m-293-music-of-africa-fall-2005/d8470a03095110589e6122576d4d480d_sabar_terms.pdf
 file_size: 94198
 file_type: application/pdf
 learning_resource_types:
