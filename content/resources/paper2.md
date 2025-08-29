@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on second paper assignment.
-file: /courses/21m-293-music-of-africa-fall-2005/d1c5ea096fce38a8a365a6833936ca42_paper2.pdf
+file: /ol-ocw-studio-app/courses/21m-293-music-of-africa-fall-2005/d1c5ea096fce38a8a365a6833936ca42_paper2.pdf
 file_size: 95605
 file_type: application/pdf
 learning_resource_types:
