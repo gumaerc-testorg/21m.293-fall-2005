@@ -20,7 +20,7 @@ Paper 1 Description ({{% resource_link 99c3f74e-69ea-98f3-dcba-17d393bb8895 "PDF
 Paper 2: Ethnographic Performance Analysis
 ------------------------------------------
 
-The second paper assignment is an ethnographic analysis of a local club performance by [Lamine Touré and Group Saloum](http://www.laminetoure.com/groupsaloum.php).
+The second paper assignment is an ethnographic analysis of a local club performance by {{% resource_link "63cedbf8-f131-4ef7-b360-bc13e63ef472" "Lamine Touré and Group Saloum" %}}.
 
 Paper 2 Description ({{% resource_link d1c5ea09-6fce-38a8-a365-a6833936ca42 "PDF" %}})
 
