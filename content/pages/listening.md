@@ -68,7 +68,7 @@ Orchestra Baobab. "Autorail." *Bamba*. Stern's Africa, 1994.
 {{< tdclose >}}{{< tdopen >}}
 This is an example of early dance-band music, with heavy Afro-Cuban influences. Recorded in 1980.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Orchestra Baobab. "jin ma jiin ma." [*Specialist in all Styles*](https://www.allmusic.com/album/specialist-in-all-styles-mw0000661954). Nonesuch, 2002.
+Orchestra Baobab. "jin ma jiin ma." {{% resource_link "d5978f67-4c5c-4713-93d9-c303ca923703" "*Specialist in all Styles*" %}}. Nonesuch, 2002.
 {{< tdclose >}}{{< tdopen >}}
 By the recently re-grouped Orchestra Baobab, recorded in 2002. Sung by Rudy Gomis over a classic 'salsa' rhythm.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -76,7 +76,7 @@ N'Dour, Youssou, Wyclef Jean, and Marie Antonette. "Birima (remix)." *Joko: The 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Diamono, Lemzo. "Boul ko fowe." [*Marimbalax*](http://www.last.fm/music/Lemzo+Diamono/_/Boul+Ko+Fowe). Originally released in 1992.
+Diamono, Lemzo. "Boul ko fowe." {{% resource_link "3a94ff07-3d59-425e-bd6a-0e21a8d4e1b9" "*Marimbalax*" %}}. Originally released in 1992.
 {{< tdclose >}}{{< tdopen >}}
 Sung by Alioune Mbaye Nder ("Nder"), before he began his solo career. Slow song; compare to Nder's "Drogue."
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -148,11 +148,11 @@ About Sylla and Famoro Dioubate, balafon duet. One bala is played without the ch
 {{< tdclose >}}{{< tdopen >}}
 Features Djefalima Diabate, voice; Abou Sylla, bala, dundun; Fode Bangoura, djembe. A song appealing to youth to respect their elders.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Tounkara, Balla. "Dianfa." (Treason). [*Be Right*](http://www.allmusic.com/song/dianfa-treason-mt0016026879). Balla Tounkara Music, 2000.
+Tounkara, Balla. "Dianfa." (Treason). {{% resource_link "a87dbac6-b93e-40ad-b704-5a515fee286f" "*Be Right*" %}}. Balla Tounkara Music, 2000.
 {{< tdclose >}}{{< tdopen >}}
 Example of kora in "House" music style; arr. Tounkara and Wirth.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-"Le Monde est Fou." (It's a crazy world). [*Be Right*](http://www.allmusic.com/song/dianfa-treason-mt0016026879). Balla Tounkara Music, 2000.
+"Le Monde est Fou." (It's a crazy world). {{% resource_link "a87dbac6-b93e-40ad-b704-5a515fee286f" "*Be Right*" %}}. Balla Tounkara Music, 2000.
 {{< tdclose >}}{{< tdopen >}}
 Example of kora music fused with a Cuban style; arr. Tounkara.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
